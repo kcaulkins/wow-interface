@@ -1,0 +1,27 @@
+VER 3 0100000000000005 "aids" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Demonic Tyrant
+/cast blood fury
+/use Soul Igniter
+/use Darkmoon Deck: Putrescence
+/cast Summon Demonic Tyrant
+END
+VER 3 0100000000000003 "Banish/Enslave" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [button:1] Banish
+/cast [button:2] Enslave Demon
+END
+VER 3 0100000000000001 "incin" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/cast incinerate
+END
+VER 3 0100000000000002 "Recall/Mark" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [button:1] Demonic Circle: Teleport
+/cast [button:2] Demonic Circle: Summon
+/cast [button:3] Demonic Gateway
+END
+VER 3 0100000000000004 "sbolt" "INV_MISC_QUESTIONMARK"
+/petattack
+/cast shadow bolt
+END

@@ -1,0 +1,22 @@
+VER 3 0100000000000003 "90 Talents" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [help] cascade
+/cast divine star
+/cast halo
+/script m_c=GetSpellInfo(121135); m_ds=GetSpellInfo(110744); m_h=GetSpellInfo(120517)
+/run SetMacroSpell("90 Talents", GetSpellInfo(m_c) or GetSpellInfo(m_ds) or GetSpellInfo(m_h))
+END
+VER 3 0100000000000005 "flash" "INV_MISC_QUESTIONMARK"
+#sdm
+#showtooltip
+/cast [@focus, exists] flash heal; flash heal
+END
+VER 3 0100000000000004 "hymn" "INV_MISC_QUESTIONMARK"
+#showtooltip Hymn of Hope
+/cast Hymn of Hope
+/say Casting Hymn of Hope!
+END
+VER 3 0100000000000001 "mount" "INV_MISC_QUESTIONMARK"
+/cast [flyable] Ashes of Al'ar
+/cast [noflyable] Kor'kron Juggernaut
+END

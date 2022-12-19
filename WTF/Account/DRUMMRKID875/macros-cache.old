@@ -1,0 +1,34 @@
+VER 3 000000000000001B "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 000000000000001E "APR_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/click ExtraActionButton1
+END
+VER 3 000000000000001C "eq" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Earthquake
+END
+VER 3 0000000000000020 "fishing" "237590"
+/console SoftTargetInteractArc 2 
+/console SoftTargetInteractRange 30 
+END
+VER 3 0000000000000017 "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Fathom Dweller
+/use [flyable]Ashes of Al'ar
+/use [noflyable]Kor'kron Juggernaut
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 0000000000000021 "RXPTargeting" "Ability_eyeoftheowl"
+/targetexact Scalecommander Emberthal
+/targetexact Wrathion
+END
+VER 3 000000000000001F "way" "4640498"
+/way The Azure Span:Dragon Isles 31.91 27.03 10
+/way The Azure Span:Dragon Isles 46.14 24.99 11
+/way The Azure Span:Dragon Isles 37.47 66.21 12
+/way The Azure Span:Dragon Isles 63.08 48.66 13
+/way The Azure Span:Dragon Isles 74.85 43.24 14
+END

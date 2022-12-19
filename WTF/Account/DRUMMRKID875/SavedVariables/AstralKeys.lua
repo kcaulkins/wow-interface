@@ -1,0 +1,393 @@
+
+AstralKeys = {
+	{
+		["source"] = "guild",
+		["weekly_best"] = 12,
+		["class"] = "SHAMAN",
+		["key_level"] = 2,
+		["unit"] = "Kolefield-Area52",
+		["dungeon_id"] = 402,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 546641,
+	}, -- [1]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 13,
+		["class"] = "PALADIN",
+		["key_level"] = 14,
+		["unit"] = "Cecíì-Area52",
+		["dungeon_id"] = 2,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 547207,
+	}, -- [2]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 14,
+		["class"] = "WARRIOR",
+		["key_level"] = 13,
+		["unit"] = "Whoarsteak-Area52",
+		["dungeon_id"] = 402,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 5,
+		["btag"] = "whoarsteak#1574",
+	}, -- [3]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 14,
+		["class"] = "PALADIN",
+		["key_level"] = 13,
+		["unit"] = "Wunlvng-Area52",
+		["dungeon_id"] = 210,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 477678,
+	}, -- [4]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 15,
+		["class"] = "DEMONHUNTER",
+		["key_level"] = 11,
+		["unit"] = "Onlymeta-Area52",
+		["dungeon_id"] = 402,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 539477,
+	}, -- [5]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 7,
+		["class"] = "DRUID",
+		["key_level"] = 2,
+		["unit"] = "Janaki-Area52",
+		["dungeon_id"] = 165,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 4,
+	}, -- [6]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 15,
+		["class"] = "DRUID",
+		["key_level"] = 7,
+		["unit"] = "Kakzak-Area52",
+		["dungeon_id"] = 402,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 531187,
+	}, -- [7]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 14,
+		["class"] = "DEMONHUNTER",
+		["key_level"] = 2,
+		["unit"] = "Satinx-Area52",
+		["dungeon_id"] = 399,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 547250,
+	}, -- [8]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 12,
+		["class"] = "MAGE",
+		["key_level"] = 2,
+		["unit"] = "Kavolain-Area52",
+		["dungeon_id"] = 200,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 546678,
+	}, -- [9]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 13,
+		["class"] = "MAGE",
+		["key_level"] = 5,
+		["unit"] = "Spky-Area52",
+		["dungeon_id"] = 401,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 481936,
+	}, -- [10]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 5,
+		["class"] = "DRUID",
+		["key_level"] = 8,
+		["unit"] = "Kruks-Area52",
+		["dungeon_id"] = 402,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 4,
+	}, -- [11]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 13,
+		["class"] = "HUNTER",
+		["key_level"] = 10,
+		["unit"] = "Côdy-Area52",
+		["dungeon_id"] = 200,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 405972,
+	}, -- [12]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 9,
+		["class"] = "WARLOCK",
+		["key_level"] = 2,
+		["unit"] = "Mítts-Area52",
+		["dungeon_id"] = 210,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 538236,
+	}, -- [13]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 15,
+		["class"] = "MONK",
+		["key_level"] = 13,
+		["unit"] = "Danhaa-Area52",
+		["dungeon_id"] = 165,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 540694,
+	}, -- [14]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 14,
+		["class"] = "HUNTER",
+		["key_level"] = 12,
+		["unit"] = "Munsy-Area52",
+		["dungeon_id"] = 400,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 450707,
+	}, -- [15]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 10,
+		["class"] = "EVOKER",
+		["key_level"] = 9,
+		["unit"] = "Shadowyasuke-Area52",
+		["dungeon_id"] = 165,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 2,
+	}, -- [16]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 13,
+		["class"] = "DRUID",
+		["key_level"] = 11,
+		["unit"] = "Zofurry-Area52",
+		["dungeon_id"] = 200,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 539070,
+	}, -- [17]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 0,
+		["class"] = "ROGUE",
+		["key_level"] = 2,
+		["unit"] = "Mittsley-Area52",
+		["dungeon_id"] = 2,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 2,
+	}, -- [18]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 5,
+		["class"] = "EVOKER",
+		["key_level"] = 14,
+		["unit"] = "Khanvoker-Area52",
+		["dungeon_id"] = 400,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 3,
+	}, -- [19]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 10,
+		["class"] = "ROGUE",
+		["key_level"] = 7,
+		["unit"] = "Qwendrium-Area52",
+		["dungeon_id"] = 200,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 484195,
+	}, -- [20]
+	{
+		["source"] = "guild",
+		["weekly_best"] = 13,
+		["class"] = "DEATHKNIGHT",
+		["key_level"] = 11,
+		["unit"] = "Whoarknight-Area52",
+		["dungeon_id"] = 399,
+		["week"] = 282,
+		["faction"] = 1,
+		["time_stamp"] = 547659,
+		["btag"] = "whoarsteak#1574",
+	}, -- [21]
+	{
+		["btag"] = "Kaelem#1556",
+		["weekly_best"] = 12,
+		["class"] = "DRUID",
+		["key_level"] = 11,
+		["unit"] = "Albeartoe-Whisperwind",
+		["dungeon_id"] = 401,
+		["week"] = 282,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [22]
+	{
+		["btag"] = "Kaelem#1556",
+		["weekly_best"] = 9,
+		["class"] = "DEMONHUNTER",
+		["key_level"] = 8,
+		["unit"] = "Vær-Whisperwind",
+		["dungeon_id"] = 210,
+		["week"] = 282,
+		["faction"] = "0",
+		["time_stamp"] = 0,
+		["source"] = "friend",
+	}, -- [23]
+}
+AstralCharacters = {
+	{
+		["weekly_best"] = 12,
+		["class"] = "SHAMAN",
+		["faction"] = 1,
+		["unit"] = "Kolefield-Area52",
+	}, -- [1]
+}
+AstralKeysSettings = {
+	["wipedOldTables"] = true,
+	["general"] = {
+		["show_minimap_button"] = {
+			["isEnabled"] = false,
+		},
+		["init_time"] = 1671548400,
+		["expanded_tooltip"] = {
+			["isEnabled"] = true,
+		},
+		["report_on_message"] = {
+			["no_key"] = false,
+			["party"] = true,
+			["guild"] = false,
+			["raid"] = false,
+		},
+		["show_tooltip_key"] = {
+			["isEnabled"] = true,
+		},
+		["announce_party"] = {
+			["isEnabled"] = true,
+		},
+		["announce_guild"] = {
+			["isEnabled"] = false,
+		},
+	},
+	["frame"] = {
+		["rank_filter"] = {
+			true, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			true, -- [6]
+			true, -- [7]
+			true, -- [8]
+			true, -- [9]
+			true, -- [10]
+		},
+		["show_offline"] = {
+			["isEnabled"] = true,
+		},
+		["isCollapsed"] = {
+			["isEnabled"] = false,
+		},
+		["orientation"] = 1,
+		["mingle_offline"] = {
+			["isEnabled"] = false,
+		},
+		["sorth_method"] = "character_name",
+		["current_list"] = "GUILD",
+	},
+	["friendOptions"] = {
+		["friend_sync"] = {
+			["isEnabled"] = true,
+		},
+		["show_other_faction"] = {
+			["isEnabled"] = true,
+		},
+	},
+	["new_settings_config"] = true,
+}
+AstralMinimap = {
+	["profileKeys"] = {
+		["Conforse - Area 52"] = "Conforse - Area 52",
+		["Kolefield - Area 52"] = "Kolefield - Area 52",
+		["Artefakt - Area 52"] = "Artefakt - Area 52",
+		["Dekae - Area 52"] = "Dekae - Area 52",
+		["Mullton - Area 52"] = "Mullton - Area 52",
+	},
+	["profiles"] = {
+		["Conforse - Area 52"] = {
+		},
+		["Kolefield - Area 52"] = {
+		},
+		["Artefakt - Area 52"] = {
+		},
+		["Dekae - Area 52"] = {
+		},
+		["Mullton - Area 52"] = {
+		},
+	},
+}
+AstralAffixes = {
+	["season_affix"] = 132,
+	["season_start_week"] = 282,
+}
+AstralLists = {
+	{
+		["name"] = "GUILD",
+		["units"] = {
+			["Cecíì-Area52"] = true,
+			["Kruks-Area52"] = true,
+			["Qwendrium-Area52"] = true,
+			["Wunlvng-Area52"] = true,
+			["Satinx-Area52"] = true,
+			["Mittsley-Area52"] = true,
+			["Onlymeta-Area52"] = true,
+			["Mítts-Area52"] = true,
+			["Kakzak-Area52"] = true,
+			["Danhaa-Area52"] = true,
+			["Zofurry-Area52"] = true,
+			["Kolefield-Area52"] = true,
+			["Shadowyasuke-Area52"] = true,
+			["Munsy-Area52"] = true,
+			["Spky-Area52"] = true,
+			["Kavolain-Area52"] = true,
+			["Janaki-Area52"] = true,
+			["Côdy-Area52"] = true,
+			["Whoarsteak-Area52"] = "whoarsteak#1574",
+			["Khanvoker-Area52"] = true,
+			["Whoarknight-Area52"] = "whoarsteak#1574",
+		},
+	}, -- [1]
+	{
+		["name"] = "FRIENDS",
+		["units"] = {
+			["Albeartoe-Whisperwind"] = "Kaelem#1556",
+			["Whoarsteak-Area52"] = "whoarsteak#1574",
+			["Whoarknight-Area52"] = "whoarsteak#1574",
+			["Vær-Whisperwind"] = "Kaelem#1556",
+		},
+	}, -- [2]
+}
+AstralUnits = nil

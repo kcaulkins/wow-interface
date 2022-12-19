@@ -1,0 +1,9 @@
+VER 3 0100000000000002 "int" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast wind shear
+END
+VER 3 0100000000000001 "mount" "INV_MISC_QUESTIONMARK"
+/use [flyable]Thundering Jade Cloud Serpent
+/use [noflyable]Regal Riding Crane
+END

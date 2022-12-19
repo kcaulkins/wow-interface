@@ -1,0 +1,14 @@
+VER 3 0100000000000006 "tot" "INV_MISC_QUESTIONMARK"
+/tar multmonk
+/focus
+/follow
+/use blue shado-pan riding tiger
+END
+VER 3 0100000000000003 "Warr" "INV_MISC_QUESTIONMARK"
+#sdm
+#showtooltip Colossus Smash
+/target focustarget
+/castsequence reset=0.3 0,0,0,0,Victory Rush
+/castsequence reset=0.3 0,0,0,Slam
+/click [btn:5]sdh Button5;[btn:4]sdh Button4;[btn:3]sdh MiddleButton;[btn:2]sdh RightButton;sdh
+END

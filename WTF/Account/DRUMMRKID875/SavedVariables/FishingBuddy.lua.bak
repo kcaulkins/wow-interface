@@ -1,0 +1,135 @@
+
+FishingBuddy_Info = {
+	["FishTotals"] = {
+		[102000] = 4,
+		[1970001] = 41,
+		[102001] = 4,
+		[1970000] = 41,
+		[1355000] = 2,
+		[1355001] = 2,
+	},
+	["HiddenFishies"] = {
+	},
+	["FishingSkill"] = {
+		[102001] = 0,
+		[1970001] = 0,
+		[1355001] = 0,
+	},
+	["DataFish"] = 0,
+	["FishingHoles"] = {
+		[102001] = {
+			[27425] = 1,
+			[45196] = 1,
+			[187915] = 1,
+			[27422] = 1,
+		},
+		[1970001] = {
+			[177025] = 4,
+			[173043] = 1,
+			[173037] = 21,
+			[173192] = 1,
+			[173032] = 9,
+			[173038] = 3,
+			[180286] = 1,
+			[177027] = 1,
+		},
+		[1355001] = {
+			[168302] = 1,
+			[187920] = 1,
+		},
+	},
+	["Version"] = 19500,
+	["KnownZones"] = {
+		[1970] = "Dimensional Falls",
+		[1355] = "Zin-Azshari",
+		[102] = "Coilfang Reservoir",
+	},
+	["SubZones"] = {
+		[102000] = 1,
+		[1970001] = "Dimensional Falls",
+		[102001] = "Coilfang Reservoir",
+		[1970000] = 1,
+		[1355000] = 1,
+		[1355001] = "Zin-Azshari",
+	},
+	["ImppDBLoaded"] = 0,
+	["Fishies"] = {
+		[173032] = {
+			["enUS"] = "Lost Sole",
+			["texture"] = 3535750,
+			["quality"] = 1,
+		},
+		[173038] = {
+			["enUS"] = "Lost Sole Bait",
+			["texture"] = 3535741,
+			["quality"] = 1,
+		},
+		[45196] = {
+			["color"] = "ff9d9d9d",
+			["enUS"] = "Tattered Cloth",
+			["quality"] = 0,
+			["texture"] = 237276,
+		},
+		[173192] = {
+			["enUS"] = "Shrouded Cloth Bandage",
+			["texture"] = 3528458,
+			["quality"] = 1,
+		},
+		[27425] = {
+			["enUS"] = "Spotted Feltail",
+			["quality"] = 1,
+			["texture"] = 133925,
+		},
+		[27422] = {
+			["enUS"] = "Barbed Gill Trout",
+			["quality"] = 1,
+			["texture"] = 133923,
+		},
+		[177027] = {
+			["color"] = "ff9d9d9d",
+			["enUS"] = "Old Glove",
+			["texture"] = 132956,
+			["quality"] = 0,
+		},
+		[177025] = {
+			["color"] = "ff9d9d9d",
+			["enUS"] = "Partially Eaten Fish",
+			["texture"] = 970842,
+			["quality"] = 0,
+		},
+		[173037] = {
+			["color"] = "ff1eff00",
+			["enUS"] = "Elysian Thade",
+			["texture"] = 3535747,
+			["quality"] = 2,
+		},
+		[187915] = {
+			["color"] = "ff0070dd",
+			["enUS"] = "Pungent Blobfish",
+			["quality"] = 3,
+			["texture"] = 133931,
+		},
+		[180286] = {
+			["color"] = "ff9d9d9d",
+			["enUS"] = "Broken Fishing Pole",
+			["quality"] = 0,
+			["texture"] = 236573,
+		},
+		[173043] = {
+			["enUS"] = "Elysian Thade Bait",
+			["quality"] = 1,
+			["texture"] = 3535735,
+		},
+		[168302] = {
+			["enUS"] = "Viper Fish",
+			["texture"] = 3007473,
+			["quality"] = 1,
+		},
+		[187920] = {
+			["enUS"] = "Flipper Fish",
+			["texture"] = 133909,
+			["quality"] = 1,
+		},
+	},
+	["FishInfo2"] = 0,
+}

@@ -1,0 +1,10 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/reload", -- [1]
+		"/kb", -- [2]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

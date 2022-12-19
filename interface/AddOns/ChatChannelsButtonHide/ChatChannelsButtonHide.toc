@@ -1,0 +1,6 @@
+## Title: ChatChannelsButtonHide
+## Author: Azusa2k9
+## Version: 0.02 release
+## Interface: 100002
+
+ChatChannelsButtonHide.lua

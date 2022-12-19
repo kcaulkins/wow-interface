@@ -1,0 +1,53 @@
+VER 3 0100000000000007 "Burning Rush" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura [talent:3/2] Burning Rush
+/use [talent:3/2] Burning Rush
+/cast [talent:3/3] dark pact
+/cast [talent:3/1] demon skin
+END
+VER 3 010000000000000A "Cataclysm" "INV_MISC_QUESTIONMARK"
+#showtooltip Cataclysm
+/cast [@cursor] Cataclysm
+END
+VER 3 0100000000000005 "Cooldowns" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Demonic Tyrant
+/cast blood fury
+/use Potion of Spectral Intellect
+/cast Summon Demonic Tyrant
+END
+VER 3 0100000000000008 "Demonbolt" "INV_MISC_QUESTIONMARK"
+#showtooltip Demonbolt
+/cast Demonbolt
+END
+VER 3 010000000000000E "Halondrus" "INV_MISC_QUESTIONMARK"
+/click ExtraActionButton1
+/wm [@cursor] 5
+END
+VER 3 0100000000000009 "Pull" "INV_MISC_QUESTIONMARK"
+#showtooltip demonbolt
+/cast demonbolt
+END
+VER 3 010000000000000C "Rain of Fire" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@cursor] Rain of Fire
+END
+VER 3 0100000000000004 "Shadowbolt" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadow Bolt
+/petattack
+/cast shadow bolt
+END
+VER 3 0100000000000006 "Summon Felguard" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast fel domination
+/cast summon felguard
+END
+VER 3 010000000000000D "Summon Felhunter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast fel domination
+/cast summon felhunter
+END
+VER 3 010000000000000B "Summon Infernal" "INV_MISC_QUESTIONMARK"
+#showtooltip Summon Infernal
+/cast blood fury
+/cast [@cursor] Summon Infernal
+END

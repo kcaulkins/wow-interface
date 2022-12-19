@@ -1,0 +1,56 @@
+
+TomCats_Account = {
+	["hallowsend"] = {
+	},
+	["lastExpirationWarning"] = 0,
+	["discoveriesResetCount"] = 0,
+	["lunarfestival"] = {
+	},
+	["loveisintheair"] = {
+	},
+	["discoveriesVersion"] = "2.4.24",
+	["lastVersionSeen"] = "2.4.24",
+	["preferences"] = {
+		["TomCats-HallowsEndMinimapButton"] = {
+			["hidden"] = false,
+			["position"] = -2.514,
+		},
+		["MapOptions"] = {
+			["iconScale"] = 1,
+			["iconAnimationEnabled"] = true,
+		},
+		["TomCats-LunarFestivalMinimapButton"] = {
+			["hidden"] = false,
+			["position"] = -2.514,
+		},
+		["TomCats-LoveIsInTheAirMinimapButton"] = {
+			["hidden"] = false,
+			["position"] = -3.262,
+		},
+		["TomCats-MinimapButton"] = {
+			["hidden"] = true,
+			["position"] = -2.888,
+		},
+		["betaEnabled"] = false,
+		["defaultVignetteIcon"] = "default",
+	},
+	["primalstorms"] = {
+		["preferences"] = {
+			["enabled"] = true,
+			["WindowLocation"] = {
+				"RIGHT", -- [1]
+				nil, -- [2]
+				"RIGHT", -- [3]
+				-400.4169921875, -- [4]
+				-109.9999389648438, -- [5]
+			},
+		},
+	},
+	["discoveries"] = {
+		["version"] = "2.4.24",
+		["vignetteAtlases"] = {
+		},
+		["vignettes"] = {
+		},
+	},
+}

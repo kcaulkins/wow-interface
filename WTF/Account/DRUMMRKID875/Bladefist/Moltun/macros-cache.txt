@@ -1,0 +1,100 @@
+VER 3 010000000000000C "arcane" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/startattack [harm]
+/petattack
+/cast arcane shot
+END
+VER 3 0100000000000005 "beast" "INV_MISC_QUESTIONMARK"
+#showtooltip bestial wrath
+/cast bestial wrath
+/cast rapid fire
+/petattack
+/cast kill command
+END
+VER 3 0100000000000016 "chimera" "INV_MISC_QUESTIONMARK"
+#showtooltip chimera shot
+/startattack
+/use 10
+/cast chimera shot
+END
+VER 3 0100000000000007 "cobra" "INV_MISC_QUESTIONMARK"
+#showtooltip cobra shot
+/petattack
+/startattack [harm]
+/cast cobra shot
+END
+VER 3 0100000000000010 "deter" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cancelaura deterrence
+/stopcasting
+/stopcasting
+/cast deterrence
+END
+VER 3 0100000000000013 "explosive" "INV_MISC_QUESTIONMARK"
+#showtooltip explosive shot
+/petattack
+/startattack [harm]
+/use 10
+/cast explosive shot
+END
+VER 3 0100000000000017 "fd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/stopcasting
+/cast feign death
+END
+VER 3 010000000000000F "gt" "INV_MISC_QUESTIONMARK"
+#showtooltip glaive toss
+/cast glaive toss
+END
+VER 3 0100000000000008 "halp" "ability_deathwing_assualtaspects"
+#showtooltip Healthstone
+/use Healthstone
+/cast [@player] Spirit Mend
+/use Brawler's Healing Potion
+END
+VER 3 0100000000000004 "killcommand" "INV_MISC_QUESTIONMARK"
+#showtooltip kill command
+/use 10
+/casr blood fury
+/petattack
+/cast kill command
+END
+VER 3 0100000000000009 "md" "INV_MISC_QUESTIONMARK"
+#showtooltip Misdirection
+/cast [@focus, help] [@pet, nodead, exists] Misdirection
+END
+VER 3 010000000000000B "mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Kor'kron Juggernaut
+/use [flyable]Ashes of Al'ar
+/use [noflyable]Kor'kron Juggernaut
+/script VehicleExit()
+/dismount [mounted]
+END
+VER 3 010000000000000E "multi" "INV_MISC_QUESTIONMARK"
+#showtooltip multi-shot
+/cast multi-shot
+END
+VER 3 010000000000000A "petplz" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@pet,nodead,exists,nomodifier:alt] Mend Pet; [nomodifier:alt] Revive Pet
+END
+VER 3 0100000000000003 "rapidfire" "INV_MISC_QUESTIONMARK"
+#showtooltip rapid fire
+/use 13
+/cast rapid fire
+END
+VER 3 0100000000000006 "stampede" "INV_MISC_QUESTIONMARK"
+#showtooltip stampede
+/use virmen's bite
+/cast [combat]bestial wrath
+/cast [combat]rapid fire
+/cast [combat]stampede
+END
+VER 3 0100000000000015 "steda" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/petattack
+/startattack [harm]
+/cast steady shot
+END

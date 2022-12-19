@@ -1,0 +1,42 @@
+
+DBMDragonIsles_AllSavedVars = {
+	["Kolefield-Area 52"] = {
+		["2506"] = {
+			[2] = {
+				["Timer385270aiCVoice"] = 0,
+				["SpecWarn386259dodgeSWSound"] = 2,
+				["Timer385506ai"] = true,
+				["announce385270spell"] = true,
+				["SpecWarn385652interruptSWSound"] = 1,
+				["Timer386259aiCVoice"] = 0,
+				["Enabled"] = true,
+				["Timer385506aiCVoice"] = 0,
+				["SpecWarn385652interruptSWNote"] = true,
+				["Timer385137aiCVoice"] = 0,
+				["Timer385137ai"] = false,
+				["Timer385506aiTColor"] = 1,
+				["Timer386259aiTColor"] = 3,
+				["SpecWarn386259dodge"] = true,
+				["announce385506spell"] = true,
+				["SpecWarn385652interrupt"] = true,
+				["Timer385270ai"] = true,
+				["SpecWarn386259dodgeSWNote"] = true,
+				["Timer386259ai"] = true,
+				["Timer385137aiTColor"] = 5,
+				["announce385137spell"] = false,
+				["Timer385270aiTColor"] = 3,
+			},
+		},
+		["talent2"] = "Enhancement",
+		["2517"] = {
+			[2] = {
+				["Enabled"] = true,
+			},
+		},
+		["2515"] = {
+			[2] = {
+				["Enabled"] = true,
+			},
+		},
+	},
+}

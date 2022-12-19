@@ -1,0 +1,18 @@
+VER 3 0100000000000004 "cds" "INV_MISC_QUESTIONMARK"
+/cast Mirror Image
+/cast Icy Veins
+END
+VER 3 0100000000000001 "freeze" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast freeze
+END
+VER 3 0100000000000002 "mount" "INV_MISC_QUESTIONMARK"
+/cast [flyable] Ashes of Al'ar
+/cast [noflyable] Kor'kron Juggernaut
+END
+VER 3 0100000000000003 "shit" "INV_MISC_QUESTIONMARK"
+#showtooltip ice lance
+/use [combat] 10
+/cast [combat]  blood fury
+/cast ice lance
+END

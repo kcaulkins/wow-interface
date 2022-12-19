@@ -1,0 +1,32 @@
+VER 3 0100000000000003 "cd" "INV_MISC_QUESTIONMARK"
+#showtooltip feral spirit
+/cast blood fury
+/use 13
+/usr 14
+/cast feral spirit
+END
+VER 3 0100000000000006 "ele" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Fire Elemental
+/cast Storm Elemental
+/cast [talent:6/2] Eye of the Storm
+/cast [talent:6/2] Meteor
+END
+VER 3 0100000000000004 "ele" "INV_MISC_QUESTIONMARK"
+#showtooltip stormkeeper
+/cast blood fury
+/cast [@player] Overflowing Anima Cage
+/cast stormkeeper
+END
+VER 3 0100000000000002 "int" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/stopcasting
+/cast wind shear
+END
+VER 3 0100000000000001 "mount" "INV_MISC_QUESTIONMARK"
+/use [flyable]Thundering Jade Cloud Serpent
+/use [noflyable]Regal Riding Crane
+END
+VER 3 0100000000000005 "trinket" "INV_MISC_QUESTIONMARK"
+/cast [@player] Overflowing Anima Cage
+END

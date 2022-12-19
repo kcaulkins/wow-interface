@@ -1,0 +1,4 @@
+VER 3 0100000000000003 "dnd" "134400"
+#showtooltip
+/cast [@cursor] death and decay
+END

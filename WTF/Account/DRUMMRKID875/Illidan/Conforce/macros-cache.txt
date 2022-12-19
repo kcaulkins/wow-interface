@@ -1,0 +1,8 @@
+VER 3 0100000000000001 "Mount" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use [mod:alt]Fathom Dweller
+/cast [flyable]Travel Form
+/use [noflyable]Great Northern Elderhorn
+/script VehicleExit()
+/dismount [mounted]
+END

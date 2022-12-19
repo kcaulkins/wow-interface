@@ -1,0 +1,31 @@
+
+RaiderIO_Config = {
+	["previouslyEnabledLogging"] = false,
+	["displayWeeklyGuildBest"] = false,
+}
+RaiderIO_LastCharacter = "us-Kolefield-area-52"
+RaiderIO_MissingCharacters = {
+	["us-Brun-illidan"] = true,
+	["us-Ellidru-area-52"] = true,
+	["us-Vesttolord-stormrage"] = true,
+	["us-Lichkîng-area-52"] = true,
+	["us-Addock-area-52"] = true,
+	["us-Niralle-echo-isles"] = true,
+	["us-Wuffles-malganis"] = true,
+	["us-Weizenn-area-52"] = true,
+	["us-Grumpidari-area-52"] = true,
+	["us-Hellnight-area-52"] = true,
+	["us-Orm-black-dragonflight"] = true,
+	["us-Murbek-chogall"] = true,
+	["us-Unknown-area-52"] = true,
+	["us-Docmartin-area-52"] = true,
+	["us-Nethenl-illidan"] = true,
+	["us-Rangeviper-area-52"] = true,
+	["us-Rengots-alterac-mountains"] = true,
+	["us-Loppenetibby-area-52"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}

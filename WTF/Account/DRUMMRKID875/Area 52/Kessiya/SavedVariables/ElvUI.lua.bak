@@ -1,0 +1,36 @@
+
+ElvCharacterDB = {
+	["ConvertKeybindings"] = true,
+	["ChatEditHistory"] = {
+		"/plater options", -- [1]
+		"/kb", -- [2]
+		"/wa", -- [3]
+		"/reload", -- [4]
+		"/aap skip", -- [5]
+		"/aap", -- [6]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"sorry stunned", -- [1]
+			"Grubbervil-MoonGuard", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Grubbervil-MoonGuard", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			1180, -- [11]
+			"Player-3675-0A512B7A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffefefeGrubbervil-MoonGuard|r",
+			[51] = 1660978804,
+			[50] = "CHAT_MSG_INSTANCE_CHAT",
+		}, -- [1]
+	},
+}

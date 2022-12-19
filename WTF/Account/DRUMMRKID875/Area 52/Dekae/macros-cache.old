@@ -1,0 +1,10 @@
+VER 3 0100000000000002 "ds" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast death strike
+/cast bone shield
+END
+VER 3 0100000000000001 "fs" "INV_MISC_QUESTIONMARK"
+#showtooltip death coil
+/cast Blood Tap
+/cast Death Coil
+END

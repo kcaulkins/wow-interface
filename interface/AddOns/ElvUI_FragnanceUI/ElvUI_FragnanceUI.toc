@@ -1,0 +1,14 @@
+## Interface: 90001
+## Author: Luckyone
+## Version: 2.00
+## Title: |cff1784d1ElvUI|r |cff1c86eeFragnanceUI|r
+## Notes: Fragnance ElvUI Layout & AddOn Profiles
+## RequiredDeps: ElvUI
+## DefaultState: enabled
+
+Init.lua
+Core\load_core.xml
+Media\load_media.xml
+Modules\load_modules.xml
+Profiles\load_profiles.xml
+Settings\load_settings.xml

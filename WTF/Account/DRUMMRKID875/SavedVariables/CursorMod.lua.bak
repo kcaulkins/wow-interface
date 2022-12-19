@@ -1,0 +1,17 @@
+
+CursorModDB = {
+	["config"] = {
+		["changeCursorSize"] = true,
+		["texPoint"] = 1,
+		["color"] = {
+			1, -- [1]
+			1, -- [2]
+			1, -- [3]
+		},
+		["autoScale"] = true,
+		["scale"] = 1,
+		["opacity"] = 1,
+		["showOnlyInCombat"] = true,
+		["size"] = 1,
+	},
+}

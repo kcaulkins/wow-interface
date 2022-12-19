@@ -1,0 +1,41 @@
+
+GlassDB = {
+	["global"] = {
+		["version"] = "1.8.0",
+	},
+	["profileKeys"] = {
+		["Multen - Area 52"] = "Default",
+		["Keziya - Area 52"] = "Default",
+		["Conforce - Illidan"] = "Default",
+		["Artefakt - Area 52"] = "Default",
+		["Xenatu - Area 52"] = "Default",
+		["Buttoucher - Area 52"] = "Default",
+		["Xenatu - Bladefist"] = "Default",
+		["Conforce - Area 52"] = "Default",
+		["Conforse - Area 52"] = "Default",
+		["Mullton - Area 52"] = "Default",
+		["Kolefield - Area 52"] = "Default",
+		["Vrill - Area 52"] = "Default",
+		["Kessiya - Area 52"] = "Default",
+		["Dekae - Area 52"] = "Default",
+		["Moltun - Bladefist"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["iconTextureYOffset"] = 3.1,
+			["messageFontSize"] = 16,
+			["editBoxBackgroundOpacity"] = 0.64,
+			["frameHeight"] = 327,
+			["positionAnchor"] = {
+				["yOfs"] = 28,
+				["xOfs"] = 0.9999979734420776,
+			},
+			["messageLinePadding"] = 0,
+			["messageLeading"] = 2,
+			["font"] = "Expressway",
+			["chatBackgroundOpacity"] = 0,
+			["frameWidth"] = 800,
+			["indentWordWrap"] = false,
+		},
+	},
+}

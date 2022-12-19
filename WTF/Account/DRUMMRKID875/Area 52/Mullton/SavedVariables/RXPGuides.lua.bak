@@ -1,0 +1,111 @@
+
+RXPCData = {
+	["currentGuideName"] = "4 Horde Silverpine Forest",
+	["completedWaypoints"] = {
+		[28] = {
+		},
+		[26] = {
+			[230812181] = true,
+		},
+	},
+	["currentStep"] = 28,
+	["GA"] = false,
+	["currentGuideGroup"] = "RestedXP Horde 10-60",
+	["flightPaths"] = {
+	},
+	["stepSkip"] = {
+		true, -- [1]
+		true, -- [2]
+		[17] = true,
+		[21] = true,
+		[18] = true,
+		[22] = true,
+		[13] = true,
+		[16] = true,
+		[5] = true,
+	},
+}
+RXPCTrackingData = {
+	["profileKeys"] = {
+		["Mullton - Area 52"] = "Mullton - Area 52",
+	},
+	["profiles"] = {
+		["Mullton - Area 52"] = {
+			["levels"] = {
+				[57] = {
+					["groupExperience"] = 0,
+					["deaths"] = 0,
+					["mobs"] = {
+						["Silverpine Forest"] = {
+							["xp"] = 540,
+							["count"] = 1,
+						},
+					},
+					["timestamp"] = {
+						["dateStarted"] = {
+							["monthDay"] = 19,
+							["weekday"] = 2,
+							["month"] = 12,
+							["minute"] = 22,
+							["hour"] = 16,
+							["year"] = 2022,
+						},
+					},
+					["quests"] = {
+						["Silverpine Forest"] = {
+							[26965] = 5900,
+						},
+					},
+				},
+			},
+		},
+	},
+}
+RXPCComms = {
+	["profileKeys"] = {
+		["Mullton - Area 52"] = "Mullton - Area 52",
+	},
+	["profiles"] = {
+		["Mullton - Area 52"] = {
+			["announcements"] = {
+				["3 Horde Zuldazar"] = {
+					["collect"] = {
+					},
+					["complete"] = {
+						["Pterrortorial Dispute"] = 57,
+						["WANTED: Jabra'kan"] = 57,
+						["Forbidden Practices"] = 57,
+						["Headbutting 101"] = 57,
+						["Dire Situation"] = 57,
+						["Restraining Order"] = 57,
+						["Direhorn Growth Hormone"] = 57,
+						["Gonk, Lord of the Pack"] = 57,
+						["Queenfeather"] = 57,
+					},
+				},
+				["4 Horde Silverpine Forest"] = {
+					["collect"] = {
+					},
+					["complete"] = {
+						["The Warchief Cometh"] = 58,
+					},
+				},
+			},
+		},
+	},
+}
+RXPCSettings = {
+	["profileKeys"] = {
+		["Mullton - Area 52"] = "Mullton - Area 52",
+	},
+	["profiles"] = {
+		["Mullton - Area 52"] = {
+			["arrowScale"] = 1.85,
+			["hardcore"] = false,
+			["arrowText"] = 14,
+			["windowScale"] = 1.6,
+			["frameHeight"] = 125.0000152587891,
+			["macroAnnounced"] = true,
+		},
+	},
+}

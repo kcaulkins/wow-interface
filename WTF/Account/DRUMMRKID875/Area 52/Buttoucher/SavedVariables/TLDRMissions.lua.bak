@@ -1,0 +1,2079 @@
+
+TLDRMissionsOptions = nil
+TLDRMissionsLogging = {
+	[2177] = {
+		["missionID"] = 2177,
+		["sentTime"] = 1660410087,
+		["followers"] = {
+			{
+				["maxHP"] = 690,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 3,
+						["spellID"] = 306,
+					}, -- [1]
+				},
+				["xp"] = 150,
+				["followerID"] = "0x00000000476EBDF9",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 646,
+				["name"] = "Elwyn",
+				["boardIndex"] = 2,
+				["baseAttack"] = 92,
+				["level"] = 13,
+				["HP"] = 690,
+				["levelXP"] = 800,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 536,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 635,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Anima Smuggler",
+				["maxHP"] = 560,
+				["baseAttack"] = 44,
+				["spells"] = {
+				},
+				["HP"] = 560,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Anima Smuggler",
+				["maxHP"] = 386,
+				["baseAttack"] = 66,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 1,
+						["spellID"] = 43,
+					}, -- [1]
+				},
+				["HP"] = 386,
+				["boardIndex"] = 10,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Anima Smuggler",
+				["maxHP"] = 560,
+				["baseAttack"] = 44,
+				["spells"] = {
+				},
+				["HP"] = 560,
+				["boardIndex"] = 7,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Anima Smuggler",
+				["maxHP"] = 386,
+				["baseAttack"] = 66,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 1,
+						["spellID"] = 43,
+					}, -- [1]
+				},
+				["HP"] = 386,
+				["boardIndex"] = 11,
+			}, -- [4]
+		},
+	},
+	[2185] = {
+		["missionID"] = 2185,
+		["sentTime"] = 1660410086,
+		["followers"] = {
+			{
+				["maxHP"] = 1200,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 102,
+					}, -- [1]
+				},
+				["xp"] = 6050,
+				["followerID"] = "0x00000000476EBE0E",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 302,
+				["name"] = "Groonoomcrooek",
+				["boardIndex"] = 2,
+				["baseAttack"] = 192,
+				["level"] = 38,
+				["HP"] = 1200,
+				["levelXP"] = 6700,
+			}, -- [1]
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = -11,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 3,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -73,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 441,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 0,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 62,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Rotbriar Trickster",
+				["maxHP"] = 1460,
+				["baseAttack"] = 144,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 2,
+						["spellID"] = 120,
+					}, -- [1]
+				},
+				["HP"] = 1460,
+				["boardIndex"] = 11,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Rotbriar Scrapper",
+				["maxHP"] = 1260,
+				["baseAttack"] = 144,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 117,
+					}, -- [1]
+				},
+				["HP"] = 1260,
+				["boardIndex"] = 6,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Rotbriar Scrapper",
+				["maxHP"] = 1260,
+				["baseAttack"] = 144,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 117,
+					}, -- [1]
+				},
+				["HP"] = 1260,
+				["boardIndex"] = 7,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Rotbriar Scrapper",
+				["maxHP"] = 1260,
+				["baseAttack"] = 144,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 117,
+					}, -- [1]
+				},
+				["HP"] = 1260,
+				["boardIndex"] = 5,
+			}, -- [4]
+			{
+				["followerID"] = -5,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Rotbriar Scrapper",
+				["maxHP"] = 1260,
+				["baseAttack"] = 144,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 117,
+					}, -- [1]
+				},
+				["HP"] = 1260,
+				["boardIndex"] = 8,
+			}, -- [5]
+		},
+	},
+	[2268] = {
+		["missionID"] = 2268,
+		["sentTime"] = 1660410090,
+		["followers"] = {
+			{
+				["maxHP"] = 821,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 103,
+					}, -- [1]
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 104,
+					}, -- [2]
+				},
+				["xp"] = 4850,
+				["followerID"] = "0x00000000476195C5",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 821,
+				["name"] = "Dreamweaver",
+				["boardIndex"] = 2,
+				["baseAttack"] = 288,
+				["level"] = 38,
+				["HP"] = 821,
+				["levelXP"] = 6700,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -839,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -1226,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Genghis",
+				["maxHP"] = 6405,
+				["baseAttack"] = 129,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 266,
+					}, -- [1]
+				},
+				["HP"] = 6405,
+				["boardIndex"] = 7,
+			}, -- [1]
+		},
+	},
+	[2261] = {
+		["missionID"] = 2261,
+		["sentTime"] = 1660410094,
+		["followers"] = {
+			{
+				["maxHP"] = 700,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 3,
+						["spellID"] = 99,
+					}, -- [1]
+				},
+				["xp"] = 150,
+				["followerID"] = "0x00000000476EBE3F",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 700,
+				["name"] = "Te'zan",
+				["boardIndex"] = 2,
+				["baseAttack"] = 140,
+				["level"] = 18,
+				["HP"] = 700,
+				["levelXP"] = 1300,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 492,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Swift Skymane",
+				["maxHP"] = 896,
+				["baseAttack"] = 44,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 4,
+						["spellID"] = 247,
+					}, -- [1]
+				},
+				["HP"] = 896,
+				["boardIndex"] = 7,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Swift Skymane",
+				["maxHP"] = 896,
+				["baseAttack"] = 44,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 4,
+						["spellID"] = 247,
+					}, -- [1]
+				},
+				["HP"] = 896,
+				["boardIndex"] = 6,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Swift Skymane",
+				["maxHP"] = 896,
+				["baseAttack"] = 44,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 4,
+						["spellID"] = 247,
+					}, -- [1]
+				},
+				["HP"] = 896,
+				["boardIndex"] = 11,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Copperfur Lurker",
+				["maxHP"] = 336,
+				["baseAttack"] = 88,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 246,
+					}, -- [1]
+				},
+				["HP"] = 336,
+				["boardIndex"] = 9,
+			}, -- [4]
+		},
+	},
+	[2286] = {
+		["missionID"] = 2286,
+		["sentTime"] = 1660410090,
+		["followers"] = {
+			{
+				["maxHP"] = 520,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 1,
+						["spellID"] = 98,
+					}, -- [1]
+				},
+				["xp"] = 50,
+				["followerID"] = "0x00000000476EBE34",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -45,
+				["name"] = "Master Sha'lor",
+				["boardIndex"] = 2,
+				["baseAttack"] = 104,
+				["level"] = 16,
+				["HP"] = 520,
+				["levelXP"] = 1100,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -6,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 235,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 198,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Decadious",
+				["maxHP"] = 4270,
+				["baseAttack"] = 96,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 4,
+						["spellID"] = 274,
+					}, -- [1]
+				},
+				["HP"] = 4270,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Consuming Rancor",
+				["maxHP"] = 1470,
+				["baseAttack"] = 71,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 4,
+						["spellID"] = 211,
+					}, -- [1]
+				},
+				["HP"] = 1470,
+				["boardIndex"] = 10,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Consuming Rancor",
+				["maxHP"] = 1470,
+				["baseAttack"] = 71,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 4,
+						["spellID"] = 211,
+					}, -- [1]
+				},
+				["HP"] = 1470,
+				["boardIndex"] = 11,
+			}, -- [3]
+		},
+	},
+	[2279] = {
+		["missionID"] = 2279,
+		["sentTime"] = 1660410091,
+		["followers"] = {
+			{
+				["maxHP"] = 600,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 1,
+						["spellID"] = 305,
+					}, -- [1]
+				},
+				["xp"] = 50,
+				["followerID"] = "0x00000000476EBE06",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -70,
+				["name"] = "Sulanoom",
+				["boardIndex"] = 2,
+				["baseAttack"] = 120,
+				["level"] = 14,
+				["HP"] = 600,
+				["levelXP"] = 900,
+			}, -- [1]
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 236,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 3,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 238,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 4,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 18,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 870,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 1,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Ash Crawler",
+				["maxHP"] = 1175,
+				["baseAttack"] = 91,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 290,
+					}, -- [1]
+				},
+				["HP"] = 1175,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Ash Crawler",
+				["maxHP"] = 1175,
+				["baseAttack"] = 91,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 290,
+					}, -- [1]
+				},
+				["HP"] = 1175,
+				["boardIndex"] = 7,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Ash Crawler",
+				["maxHP"] = 1175,
+				["baseAttack"] = 91,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 290,
+					}, -- [1]
+				},
+				["HP"] = 1175,
+				["boardIndex"] = 5,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Ash Crawler",
+				["maxHP"] = 1175,
+				["baseAttack"] = 91,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 290,
+					}, -- [1]
+				},
+				["HP"] = 1175,
+				["boardIndex"] = 8,
+			}, -- [4]
+			{
+				["followerID"] = -5,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Greater Ash Crawler",
+				["maxHP"] = 2175,
+				["baseAttack"] = 91,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 291,
+					}, -- [1]
+				},
+				["HP"] = 2175,
+				["boardIndex"] = 11,
+			}, -- [5]
+		},
+	},
+	[2182] = {
+		["missionID"] = 2182,
+		["sentTime"] = 1660410092,
+		["followers"] = {
+			{
+				["maxHP"] = 805,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 4,
+						["spellID"] = 101,
+					}, -- [1]
+				},
+				["xp"] = 750,
+				["followerID"] = "0x00000000476EBE1A",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 805,
+				["name"] = "Watcher Vesperbloom",
+				["boardIndex"] = 2,
+				["baseAttack"] = 69,
+				["level"] = 13,
+				["HP"] = 805,
+				["levelXP"] = 800,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -33,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 4,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Juvenile Miredeer",
+				["maxHP"] = 1044,
+				["baseAttack"] = 78,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 116,
+					}, -- [1]
+				},
+				["HP"] = 1044,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Juvenile Miredeer",
+				["maxHP"] = 1044,
+				["baseAttack"] = 78,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 116,
+					}, -- [1]
+				},
+				["HP"] = 1044,
+				["boardIndex"] = 7,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Juvenile Miredeer",
+				["maxHP"] = 1044,
+				["baseAttack"] = 78,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 116,
+					}, -- [1]
+				},
+				["HP"] = 1044,
+				["boardIndex"] = 8,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Juvenile Miredeer",
+				["maxHP"] = 1044,
+				["baseAttack"] = 78,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 3,
+						["spellID"] = 116,
+					}, -- [1]
+				},
+				["HP"] = 1044,
+				["boardIndex"] = 12,
+			}, -- [4]
+		},
+	},
+	[2178] = {
+		["missionID"] = 2178,
+		["sentTime"] = 1660410094,
+		["followers"] = {
+			{
+				["maxHP"] = 1080,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 2,
+						["spellID"] = 97,
+					}, -- [1]
+				},
+				["xp"] = 150,
+				["followerID"] = "0x00000000476EBE5E",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 1080,
+				["name"] = "Guardian Kota",
+				["boardIndex"] = 2,
+				["baseAttack"] = 81,
+				["level"] = 17,
+				["HP"] = 1080,
+				["levelXP"] = 1200,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 554,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 491,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Darkwarren Bulwark",
+				["maxHP"] = 1568,
+				["baseAttack"] = 26,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 4,
+						["spellID"] = 61,
+					}, -- [1]
+				},
+				["HP"] = 1568,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Darkwarren Spitter",
+				["maxHP"] = 672,
+				["baseAttack"] = 64,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 60,
+					}, -- [1]
+				},
+				["HP"] = 672,
+				["boardIndex"] = 10,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Darkwarren Bulwark",
+				["maxHP"] = 1568,
+				["baseAttack"] = 26,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 4,
+						["spellID"] = 61,
+					}, -- [1]
+				},
+				["HP"] = 1568,
+				["boardIndex"] = 7,
+			}, -- [3]
+		},
+	},
+	[2271] = {
+		["missionID"] = 2271,
+		["sentTime"] = 1660410093,
+		["followers"] = {
+			{
+				["maxHP"] = 910,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 106,
+					}, -- [1]
+					{
+						["duration"] = 0,
+						["cooldown"] = 0,
+						["spellID"] = 105,
+					}, -- [2]
+				},
+				["xp"] = 950,
+				["followerID"] = "0x00000000476B99DC",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = 668,
+				["name"] = "Hunt-Captain Korayn",
+				["boardIndex"] = 2,
+				["baseAttack"] = 104,
+				["level"] = 16,
+				["HP"] = 910,
+				["levelXP"] = 1100,
+			}, -- [1]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 580,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 3,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 44,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 564,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 210,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Zoliramus Gatekeeper",
+				["maxHP"] = 1340,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 275,
+					}, -- [1]
+				},
+				["HP"] = 1340,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Rot Flinger",
+				["maxHP"] = 740,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 3,
+						["spellID"] = 276,
+					}, -- [1]
+				},
+				["HP"] = 740,
+				["boardIndex"] = 5,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Rot Flinger",
+				["maxHP"] = 740,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 3,
+						["spellID"] = 276,
+					}, -- [1]
+				},
+				["HP"] = 740,
+				["boardIndex"] = 7,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Rot Flinger",
+				["maxHP"] = 740,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 3,
+						["spellID"] = 276,
+					}, -- [1]
+				},
+				["HP"] = 740,
+				["boardIndex"] = 12,
+			}, -- [4]
+			{
+				["followerID"] = -5,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Zoliramus Gatekeeper",
+				["maxHP"] = 1340,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 275,
+					}, -- [1]
+				},
+				["HP"] = 1340,
+				["boardIndex"] = 11,
+			}, -- [5]
+			{
+				["followerID"] = -6,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["name"] = "Rot Flinger",
+				["maxHP"] = 740,
+				["baseAttack"] = 57,
+				["spells"] = {
+					{
+						["duration"] = 3,
+						["cooldown"] = 3,
+						["spellID"] = 276,
+					}, -- [1]
+				},
+				["HP"] = 740,
+				["boardIndex"] = 10,
+			}, -- [6]
+		},
+	},
+	[2237] = {
+		["missionID"] = 2237,
+		["sentTime"] = 1660410088,
+		["followers"] = {
+			{
+				["maxHP"] = 870,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 1,
+						["spellID"] = 302,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFE",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["predictedFinalHP"] = -27,
+				["name"] = "Ardenweald Trapper",
+				["boardIndex"] = 2,
+				["baseAttack"] = 87,
+				["level"] = 19,
+				["HP"] = 870,
+				["levelXP"] = 1,
+			}, -- [1]
+			{
+				["maxHP"] = 960,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 89,
+					}, -- [1]
+					{
+						["duration"] = 0,
+						["cooldown"] = 0,
+						["spellID"] = 90,
+					}, -- [2]
+				},
+				["xp"] = 5550,
+				["followerID"] = "0x0000000047512710",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -27,
+				["name"] = "Niya",
+				["boardIndex"] = 3,
+				["baseAttack"] = 192,
+				["level"] = 38,
+				["HP"] = 960,
+				["levelXP"] = 6700,
+			}, -- [2]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = -89,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 4,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [3]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 53,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 0,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [4]
+			{
+				["maxHP"] = 580,
+				["spells"] = {
+					{
+						["duration"] = 0,
+						["cooldown"] = 2,
+						["spellID"] = 71,
+					}, -- [1]
+				},
+				["xp"] = 0,
+				["followerID"] = "0xFFFFFFFFFFFFFFFF",
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 15,
+				},
+				["predictedFinalHP"] = 559,
+				["name"] = "Ardenweald Grovetender",
+				["boardIndex"] = 1,
+				["baseAttack"] = 145,
+				["level"] = 19,
+				["HP"] = 580,
+				["levelXP"] = 1,
+			}, -- [5]
+		},
+		["addonVersion"] = "9.2-123",
+		["enemies"] = {
+			{
+				["followerID"] = -1,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Cruel Collector",
+				["maxHP"] = 3125,
+				["baseAttack"] = 105,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 3,
+						["spellID"] = 172,
+					}, -- [1]
+				},
+				["HP"] = 3125,
+				["boardIndex"] = 6,
+			}, -- [1]
+			{
+				["followerID"] = -2,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Cruel Collector",
+				["maxHP"] = 3125,
+				["baseAttack"] = 105,
+				["spells"] = {
+					{
+						["duration"] = 1,
+						["cooldown"] = 3,
+						["spellID"] = 172,
+					}, -- [1]
+				},
+				["HP"] = 3125,
+				["boardIndex"] = 7,
+			}, -- [2]
+			{
+				["followerID"] = -3,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Voracious Collector",
+				["maxHP"] = 1725,
+				["baseAttack"] = 135,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 173,
+					}, -- [1]
+				},
+				["HP"] = 1725,
+				["boardIndex"] = 9,
+			}, -- [3]
+			{
+				["followerID"] = -4,
+				["autoAttack"] = {
+					["duration"] = 0,
+					["cooldown"] = 0,
+					["spellID"] = 11,
+				},
+				["name"] = "Voracious Collector",
+				["maxHP"] = 1725,
+				["baseAttack"] = 135,
+				["spells"] = {
+					{
+						["duration"] = 2,
+						["cooldown"] = 4,
+						["spellID"] = 173,
+					}, -- [1]
+				},
+				["HP"] = 1725,
+				["boardIndex"] = 12,
+			}, -- [4]
+		},
+	},
+}

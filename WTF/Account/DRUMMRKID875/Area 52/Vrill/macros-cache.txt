@@ -1,0 +1,14 @@
+VER 3 0100000000000002 "cs" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast crusader strike
+/cast shield of the righteous
+END
+VER 3 0100000000000001 "mount" "INV_MISC_QUESTIONMARK"
+/use [flyable]Ashes of Al'ar
+/use [noflyable]Kor'kron War Wolf
+/dismount[mounted]
+END
+VER 3 0100000000000003 "res" "INV_MISC_QUESTIONMARK"
+#showtooltip redemption
+/use [@mouseover,help,nodead][help,nodead][@player] redemption
+END
